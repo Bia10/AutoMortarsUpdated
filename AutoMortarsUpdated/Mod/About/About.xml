@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<packageId>Bia10.AutoMortarsUpdated</packageId>
+	<name>AutoMortarsUpdated</name>
+	<author>Bia10</author>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<description>
+Unofficial 1.4 update. 
+
+Adds an automatic mortar. 3x3 and can hold up to 21 H.E. shells. 
+Fires less often but more accurately than a normal mortar. 
+
+Original authors: Blake, Flyingstar (1.1).
+	</description>
+</ModMetaData>
